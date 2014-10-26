@@ -1,6 +1,6 @@
 {
   "name": "pixijs-dragpad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module to drag and drop objects via touch or mouse on a pixijs canvas.",
   "main": "index.js",
   "license": "MIT",
