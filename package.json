@@ -16,7 +16,7 @@
     "pixijs-render-manager": "^1.0.0"
   },
   "devDependencies": {
-    "loadandrunscripts": "^1.0.0",
+    "loadandrunscripts": "^1.0.0"
   },
   "scripts": {
     "test": "beefy test.js --live --open --index=dev.html",
