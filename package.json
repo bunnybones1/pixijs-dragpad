@@ -10,12 +10,13 @@
     "url": "https://github.com/bunnybones1"
   },
   "dependencies": {
-    "pixijs-interaction-manager": "^1.0.0"
+    "input-unified-pointers": "^1.0.1",
+    "pixijs-managed-view": "^1.0.0",
+    "pixijs-interaction-manager": "^1.0.0",
+    "pixijs-render-manager": "^1.0.0"
   },
   "devDependencies": {
     "loadandrunscripts": "^1.0.0",
-    "pixijs-managed-view": "^1.0.0",
-    "pixijs-render-manager": "^1.0.0"
   },
   "scripts": {
     "test": "beefy test.js --live --open --index=dev.html",
