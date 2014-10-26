@@ -1,0 +1,33 @@
+{
+  "name": "pixijs-dragpad",
+  "version": "1.0.0",
+  "description": "A module to drag and drop objects via touch or mouse on a pixijs canvas.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "beefy test.js --live --open --index=dev.html",
+    "webapp": "browserify test.js -o webapp/bundle.js"
+  },
+  "keywords": [
+    "mouse",
+    "touch",
+    "pixijs",
+    "canvas",
+    "drag"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/pixijs-dragpad.git"
+  },
+  "homepage": "https://github.com/bunnybones1/pixijs-dragpad",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/pixijs-dragpad/issues"
+  }
+}
